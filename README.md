@@ -1,4 +1,4 @@
-# 🚀 FPS Boost - Otimizador de Desempenho
+# 🚀 FPS Boost 
 
 Este projeto foi desenvolvido em Python com o objetivo de aumentar o desempenho do sistema operacional para jogos e aplicações pesadas, ajustando configurações do sistema de forma automatizada. É uma ferramenta simples, com autenticação e interface de fácil uso.
 
